@@ -1,0 +1,7 @@
+# ninja log v5
+1	67	6890913172847041	CMakeFiles/clion.dir/main.c.obj	2e1e2975c2f2eb15
+66	149	6890925654005864	clion.exe	28a320023fc717e8
+2	133	6890929041948546	build.ninja	fa800add2deec3b4
+2	66	6890925653208505	CMakeFiles/clion.dir/structure.c.obj	90ba927184de7b96
+1	49	6890934463159570	CMakeFiles/clion.dir/structure.c.obj	90ba927184de7b96
+1	43	6890934975405725	CMakeFiles/clion.dir/acoount_structure.c.obj	e270c5458fb92343

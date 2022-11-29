@@ -1,0 +1,4 @@
+# ninja log v5
+142	216	6872497734611692	C_language.exe	856f34b01d25b1a2
+2	142	6872497733890462	CMakeFiles/C_language.dir/main.c.obj	9fd4ecd93fcf0c60
+14	112	6872803053415546	build.ninja	e16efc93dd86de37

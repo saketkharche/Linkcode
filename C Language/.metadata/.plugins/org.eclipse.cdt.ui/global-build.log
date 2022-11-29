@@ -1,0 +1,6 @@
+No Toolchain found for Target LocalNo Toolchain found for Target LocalNo Toolchain found for Target LocalNo Toolchain found for Target LocalInfo: Nothing to build for test1
+Info: Nothing to build for test1
+10:52:51 **** Incremental Build of configuration Debug for project test1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o sa.o "..\\sa.c" 
+gcc -o test1.exe sa.o 

@@ -1,0 +1,3 @@
+D:/saket/Linkcode/C Language/C Lion/bank mangement system/cmake-build-debug/CMakeFiles/bank_mangement_system.dir
+D:/saket/Linkcode/C Language/C Lion/bank mangement system/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/saket/Linkcode/C Language/C Lion/bank mangement system/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+0	77	6856958897397532	CMakeFiles/geomatric_shapes_program.dir/Geometric_Shapes.c.obj	76a06c6c8235eabc
+1	86	6856984286007000	build.ninja	2fc0fa95b9179459
+77	123	6856958897861125	libgeomatric_shapes_program.a	ce0492d1e1c5f5f4
+1	59	6856986194828637	CMakeFiles/geomatric_shapes_program.dir/Geometric_Shapes.c.obj	76a06c6c8235eabc
+59	108	6856986195328633	libgeomatric_shapes_program.a	ce0492d1e1c5f5f4

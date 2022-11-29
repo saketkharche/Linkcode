@@ -1,0 +1,3 @@
+D:/Linkcode/C Language/geomatric shapes program/cmake-build-debug/CMakeFiles/geomatric_shapes_program.dir
+D:/Linkcode/C Language/geomatric shapes program/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Linkcode/C Language/geomatric shapes program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
